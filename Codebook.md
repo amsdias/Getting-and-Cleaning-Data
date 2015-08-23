@@ -25,4 +25,3 @@ Then, activy names are read from the file "activity_labels.txt" and saved to the
 * *merged_data* holds the data from the variables *x*, *y* and *subject*, merged with cbind
 
 * ddply is used to calculate column means and the result is saved to the *data* variable, which is then written to disk as "cleandata.txt"
-
